@@ -26,3 +26,6 @@ Ryzen 5 7600X, 32 GB RAM, AMD Radeon RX 7600 (8 GB).
 
 ## Tools
 Python, PyTorch, Hugging Face `tokenizers`, llama.cpp, Windows.
+
+## Post Note
+I plan on doing many more projects after I’m done with this so stay tuned if you’re interested in more. 
